@@ -2,6 +2,10 @@
 
 A podcast that's one part data, two parts craic, served with a splash of booze
 
+* [Anchor](https://anchor.fm/datadelinquents)
+* [RSS Feed](https://anchor.fm/s/3ba097f0/podcast/rss)
+* [Spotify](https://open.spotify.com/show/1q8mZkFAc6tLHG6FFKcQB1)
+
 ## Episode Null - The One Where We Didn't Do A Real Intro (2:20)
 
 [![This was a terrible idea](https://img.youtube.com/vi/lZQN-scm8c8/0.jpg)](https://www.youtube.com/watch?v=lZQN-scm8c8)
