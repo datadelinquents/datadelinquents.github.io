@@ -16,6 +16,10 @@ A podcast that's one part data, two parts craic, served with a splash of booze
 
 Honestly, we've no idea why anyone would want to listen to this drivel, but it's probably better than doom-scrolling.
 
-## Episode One: The One Where We Kinda Got Our Act Together - Coming Soon
+## Episode One: The One Where We Kinda Got Our Act Together (1:25)
 
-After recovering from the last recording, a house move, and a month of doomscrolling, the crew tackle more meaty topics of Data Literacy in the public and healthcare sectors, Excel as a Database, and Chastity as a Service. 
+[![Why do we keep doing this to ourselves](https://img.youtube.com/vi/OSilCRmp3pw/0.jpg)](https://www.youtube.com/watch?v=OSilCRmp3pw)
+
+After recovering from the last recording, a house move, and a month of doomscrolling, the crew tackle more meaty topics of Data Literacy in the public and healthcare sectors, [Excel as a Database](https://www.theguardian.com/politics/2020/oct/05/how-excel-may-have-caused-loss-of-16000-covid-tests-in-england), and [Chastity as a Service](https://www.bbc.co.uk/news/technology-54436575). 
+
+Oh, and we're now on Spotify somehow!
