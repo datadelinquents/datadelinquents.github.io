@@ -11,6 +11,16 @@ A podcast that's one part data, two parts craic, served with a splash of booze
 
 # Episodes
 
+## Episode Three: The One Where Bolster left it to the last minute to write it up
+
+[![Why do we keep doing this to ourselves](https://img.youtube.com/vi/u05Viy9rg3U/0.jpg)](https://www.youtube.com/watch?v=u05Viy9rg3U)
+
+With Tyndyll in the hot seat, we cover the standard COVID junk with particular attention to how it effects the meaning of meetups, mentorship, and OpenUK, among other dark wanderings.
+
+[Descript](https://share.descript.com/view/9MgkjzXJBMi)
+
+[Anchor.fm](https://anchor.fm/datadelinquents/episodes/Episode-Three-The-One-Where-Bolster-left-it-to-the-last-minute-to-write-it-up-e152en0)
+
 ## Episode Two: The One Where We Were Missing One And Bolster Got Distracted With Descript
 
 [![Why do we keep doing this to ourselves](https://img.youtube.com/vi/ePVZd3xh8P8/0.jpg)](https://www.youtube.com/watch?v=ePVZd3xh8P8)
